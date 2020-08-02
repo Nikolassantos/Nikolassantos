@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[![Nikolas dos Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikolassantos_icons=true)](https://github.com/Nikolassantos/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nikolassantos)
 
 </div>
 
