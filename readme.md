@@ -20,7 +20,7 @@
 
 - **Linguagens:** HTML5, CSS3, JavaScript, TypeScript,
 - **Frameworks/Bibliotecas:** NodeJS, ReactJS, React Native
-- **Banco de dados:** MySQL, Oracle, SQLite
+- **Banco de dados:** MySQL,SQLite
 - **Versionamento:** Git, GitHub
 - **IDE:** Visual Studio Code, Visual Studio
 
