@@ -19,7 +19,7 @@
 ## 🚀 Conhecimento
 
 - **Linguagens:** HTML5, CSS3, JavaScript, TypeScript,
-- **Frameworks/Bibliotecas:** NodeJS, ReactJS, React Native
+- **Frameworks/Bibliotecas Aprendidos :** ReactJS, React Native
 - **Banco de dados:** MySQL,SQLite
 - **Versionamento:** Git, GitHub
 - **IDE:** Visual Studio Code, Visual Studio
@@ -30,7 +30,5 @@
 
 ## 📚 Estudando
 
-- ReactJS
-- React Native
-- NodeJS
 - Sql
+- NodeJS,
