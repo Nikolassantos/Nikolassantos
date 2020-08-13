@@ -1,4 +1,4 @@
-# 👋 Olá, sou o Nikolas Santos
+# 👋 Hi, I am Nikolas Santos
 
 <div align="center">
 
@@ -16,19 +16,20 @@
 
 </div>
 
-## 🚀 Conhecimento
+## 🚀 know
 
-- **Linguagens:** HTML5, CSS3, JavaScript, TypeScript,
-- **Frameworks/Bibliotecas Aprendidos :** ReactJS, React Native
-- **Banco de dados:** MySQL,SQLite
-- **Versionamento:** Git, GitHub
+- **Languages:**  JavaScript, TypeScript,
+- **Frameworks:** ReactJS, React Native,
+- **Others:** HTML5, CSS3,
+- **database:** MySQL,SQLite
+- **Versioning:** Git, GitHub
 - **IDE:** Visual Studio Code, Visual Studio
 
-## ⚙ Trabalho
+## ⚙ Job
 
-- Procurando uma nova oportunidade.
+- Looking for a new opportunity.
 
-## 📚 Estudando
+## 📚 Studing
 
 - Sql
 - NodeJS,
